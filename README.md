@@ -1,6 +1,6 @@
 # 📈 Financial Summary Automation 📊( SMARTKIRA )
 
-Welcome to the **Financial Summary Automation** project! This tool simplifies financial tracking and reporting by automating daily and monthly summaries, complete with charts and email notifications.
+Welcome to the **Financial Summary Automation** project! This tool simplifies financial tracking and reporting by automating daily and monthly summaries, complete with charts and email notifications every day and month automatically.
 
 ## 🌟 Features
 
