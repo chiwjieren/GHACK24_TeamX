@@ -52,16 +52,6 @@ Authorize the script to access your Google Sheets and send emails on your behalf
 - **Monthly Processing**: Run `endOfMonthProcessing()` to generate and email the monthly financial report.
 - **Scheduling**: Use `createDailyTrigger()` and `createMonthlyTrigger()` to automate daily and monthly reports.
 
-## 📜 Examples
-
-**Daily Financial Summary Example:**
-
-![Daily Summary](https://via.placeholder.com/400x200?text=Daily+Summary+Chart)
-
-**Monthly Financial Overview Example:**
-
-![Monthly Summary](https://via.placeholder.com/400x200?text=Monthly+Summary+Chart)
-
 ## 🤝 Contributing
 
 We welcome contributions to improve this project! Feel free to submit a pull request or open an issue with suggestions.
@@ -78,14 +68,24 @@ For questions or feedback, reach out to [Your Name] at [Your Email Address].
 
 ### 🖼️ Screenshots
 
-**Income Summary Sheet:**
+**Income Sheet:**
 
 ![Income Summary](https://via.placeholder.com/400x200?text=Income+Summary+Sheet)
+
+**Income Summary Sheet:**
 
 **Expenses Summary Sheet:**
 
 ![Expenses Summary](https://via.placeholder.com/400x200?text=Expenses+Summary+Sheet)
 
-**Daily Summary Document:**
+**Daily Summary sheets:**
 
 ![Daily Summary Doc](https://via.placeholder.com/400x200?text=Daily+Summary+Document)
+
+**Daily Financial Summary Example:**
+
+![Daily Summary](https://via.placeholder.com/400x200?text=Daily+Summary+Chart)
+
+**Monthly Financial Overview Example:**
+
+![Monthly Summary](https://via.placeholder.com/400x200?text=Monthly+Summary+Chart)
