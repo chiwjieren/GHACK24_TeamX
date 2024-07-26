@@ -59,7 +59,7 @@ We welcome contributions to improve this project! Feel free to submit a pull req
 
 ## 📬 Contact
 
-For questions or feedback, reach out to [Chiw Jie Ren] at [Jerzltaz@gmail.com].
+For questions or feedback, reach out to [Chiw Jie Ren] at [Jerzltaz@gmail.com] or [https://www.instagram.com/chiwstillindream/]
 
 ---
 
