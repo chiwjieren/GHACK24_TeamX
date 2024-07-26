@@ -15,8 +15,9 @@ Welcome to the **Financial Summary Automation** project! This tool simplifies fi
 
 Create a Google Spreadsheet with the following sheets:
 
-- **Income**: Track your income entries here.
-- **Expenses**: Log your expenses here.
+- **Income**: Track your income entries here. (create a google forms and link the sheets to this sheet rename = Income)
+- **Expenses**: Log your expenses here.(create a google forms and link the sheets to this sheet rename = Expenses)
+- the forms contains (Category, Remarks, Amount)
 - **Income Summary**: Summarize income with a pie chart.
 - **Expenses Summary**: Summarize expenses with a pie chart.
 - **Daily Summary**: Daily overview with a column chart.
@@ -56,13 +57,9 @@ Authorize the script to access your Google Sheets and send emails on your behalf
 
 We welcome contributions to improve this project! Feel free to submit a pull request or open an issue with suggestions.
 
-## 📝 License
-
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
-
 ## 📬 Contact
 
-For questions or feedback, reach out to [Your Name] at [Your Email Address].
+For questions or feedback, reach out to [Chiw Jie Ren] at [Jerzltaz@gmail.com].
 
 ---
 
@@ -74,18 +71,29 @@ For questions or feedback, reach out to [Your Name] at [Your Email Address].
 
 **Income Summary Sheet:**
 
+![Screenshot 2024-07-26 135053](https://github.com/user-attachments/assets/a6c8d18b-8934-4e60-b99a-b204da6d6323)
+
+**Expenses Sheet:**
+
+![Screenshot 2024-07-26 135014](https://github.com/user-attachments/assets/62cbc89b-b279-4127-b141-2586c136d588)
+
 **Expenses Summary Sheet:**
 
-![Expenses Summary](https://via.placeholder.com/400x200?text=Expenses+Summary+Sheet)
+![Screenshot 2024-07-26 135027](https://github.com/user-attachments/assets/2bec3607-61ea-4fc6-895f-7109ea2797bc)
 
 **Daily Summary sheets:**
 
-![Daily Summary Doc](https://via.placeholder.com/400x200?text=Daily+Summary+Document)
+![Screenshot 2024-07-26 135103](https://github.com/user-attachments/assets/fae331fd-e15d-4e57-a815-69e321b595e1)
+
+**Monthly Summary sheets:**
+
+![Screenshot 2024-07-26 135119](https://github.com/user-attachments/assets/0622d313-423d-4398-9caa-dee6b2de6e0b)
 
 **Daily Financial Summary Example:**
 
-![Daily Summary](https://via.placeholder.com/400x200?text=Daily+Summary+Chart)
+![Screenshot 2024-07-26 135807](https://github.com/user-attachments/assets/640ca649-1d73-4ae0-9fd9-a66f607afbf8)
 
 **Monthly Financial Overview Example:**
 
-![Monthly Summary](https://via.placeholder.com/400x200?text=Monthly+Summary+Chart)
+![Screenshot 2024-07-26 135930](https://github.com/user-attachments/assets/c2789057-52f7-4208-87ab-79b3ffdcafcb)
+
