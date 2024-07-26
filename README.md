@@ -70,7 +70,7 @@ For questions or feedback, reach out to [Your Name] at [Your Email Address].
 
 **Income Sheet:**
 
-![Income Summary](https://via.placeholder.com/400x200?text=Income+Summary+Sheet)
+![Screenshot 2024-07-26 135043](https://github.com/user-attachments/assets/f0eb3470-54f3-4dbc-9565-7cf65bca5fd8)
 
 **Income Summary Sheet:**
 
